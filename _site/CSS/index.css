@@ -1,0 +1,23 @@
+.agreen{
+  color: green;
+}
+.ared {
+  color: red;
+}
+.ayellow{
+  color:yellow;
+}
+div {
+  border: 1px solid black;
+}
+.divred {
+  background-color: whitesmoke;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: whitesmoke;
+}
+
+#h11 {
+  text-align: 500px;
+}
