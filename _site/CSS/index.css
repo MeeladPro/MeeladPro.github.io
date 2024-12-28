@@ -11,8 +11,19 @@ div {
   border: 1px solid black;
 }
 .divred {
+<<<<<<< HEAD
   background-color: whitesmoke;
 }
+=======
+  box-shadow: 0 0 10px 5px black inset;
+  background-color: whitesmoke;
+}
+
+html {
+  box-shadow: 0 0 0 10px lightgrey inset;
+  padding: 0 30px;
+}
+>>>>>>> 1573941a5dbb2a8293c6d92cf19c3aa80e4f574b
 body {
   font-family: Arial, Helvetica, sans-serif;
   background-color: whitesmoke;
@@ -21,3 +32,13 @@ body {
 #h11 {
   text-align: 500px;
 }
+<<<<<<< HEAD
+=======
+
+#Page_list {
+  position: fixed;
+  right: 30px;
+  top: 10px;
+  transition: 0.3s;
+}
+>>>>>>> 1573941a5dbb2a8293c6d92cf19c3aa80e4f574b
